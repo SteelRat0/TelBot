@@ -5,6 +5,7 @@
 node_modules
 
 # Ignore LOG folder
+LOG
 
 # Ignore all text files
 *.txt
