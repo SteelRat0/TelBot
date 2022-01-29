@@ -1,11 +1,27 @@
 {
   "name": "telbot",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "node-telegram-bot-api": "0.56.0",
+    "telegraf": "^4.6.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteelRat0/TelBot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/SteelRat0/TelBot/issues"
+  },
+  "homepage": "https://github.com/SteelRat0/TelBot#readme",
+  "description": ""
 }
